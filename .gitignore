@@ -2,3 +2,7 @@ node_modules
 npm-debug.log
 yarn.lock
 config/config.json
+config/privatekey.pem
+config/publickey.cer
+.DS_Store
+/*.env
